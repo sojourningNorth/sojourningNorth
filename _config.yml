@@ -1,3 +1,5 @@
 name: asdf
 markdown: kramdown
 permalink: /sojourningNorth/blog/:year/:month/:day/:title
+
+theme: jekyll-theme-cayman
